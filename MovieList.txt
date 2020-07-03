@@ -1,0 +1,4 @@
+Movie, Gladiator, A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery., Ridley Scott, United Kindom, 103000000, USD, 711730000, 2000, 5, 155, , Russel Crowe;Joaquin Phoenix;Connie Nielsen, Action;Adventure;Drama
+Movie, Jurassic Park, A pragmatic Paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose., Steven Spielberg, United States, 63000000, USD, 435330000, 1993, 5, 126, , Sam Neill;Laura Dern;Jeff Goldblum, Action;Adventure;Sci-Fi
+Documentary, The life of penguins, Testing, Tavs Malling, 2020, 5000000, USD, 34550000, 2020, 5, 159, History;Animals;Crime, , 
+
